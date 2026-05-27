@@ -1,0 +1,12 @@
+# Ignore the duplicate nested folder to keep the repository clean
+/sewer_monitor/
+
+# OS-specific files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.log
